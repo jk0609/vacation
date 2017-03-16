@@ -1,0 +1,13 @@
+.package {
+  font-family: monospace;
+  border: solid 5px skyblue;
+  height: 400px;
+}
+.package h4{
+  font-size: 30px;
+  text-decoration: underline;
+  color: skyblue;
+}
+.activities {
+  list-style: circle;
+}
