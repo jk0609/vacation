@@ -1,4 +1,4 @@
-#Vacation
+# Vacation
 
 #### HTML and CSS practice for class. 3/15/17
 
@@ -19,8 +19,8 @@ None
 
 ## Technologies Used
 
-HTML
-CSS
+* HTML
+* CSS
 
 ### License
 
